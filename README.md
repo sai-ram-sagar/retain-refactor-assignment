@@ -14,7 +14,7 @@ This repo contains a refactored version of a legacy user management API original
 ```bash
 pip install -r requirements.txt
 python init_db.py
-python -m app.main
+python app.py
 ```
 
 ## Run Tests
