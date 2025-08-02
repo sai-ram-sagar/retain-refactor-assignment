@@ -20,6 +20,6 @@ python -m app.main
 ## Run Tests
 
 ```
-python -m unittest discover tests
+pytest
 
 ```
